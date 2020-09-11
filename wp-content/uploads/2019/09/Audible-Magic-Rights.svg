@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>streamline-icon-video-file-share@24x24</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Solutions-overview-page-Copy-4" transform="translate(-704.000000, -929.000000)" stroke="#FF3801" stroke-width="2">
+            <g id="Feature-#13-Copy-2" transform="translate(0.000000, 683.000000)">
+                <g id="streamline-icon-video-file-share@24x24" transform="translate(705.000000, 247.000000)">
+                    <path d="M18,46 L2,46 C0.896,46 0,45.104 0,44 L0,2 C0,0.896 0.896,0 2,0 L28.586,0 C29.116,0 29.626,0.21 30,0.586 L37.414,8 C37.79,8.374 38,8.884 38,9.414 L38,16" id="Path"></path>
+                    <path d="M14.272,15.428 C13.534,15.018 12.604,15.282 12.194,16.018 C12.066,16.246 12,16.504 12,16.764 L12,28.236 C12,29.08 12.682,29.764 13.526,29.766 C13.786,29.766 14.044,29.7 14.272,29.572 L24.214,23.454 C24.952,23.044 25.218,22.112 24.808,21.374 C24.67,21.124 24.464,20.92 24.214,20.78 L14.272,15.428 Z" id="Path"></path>
+                    <path d="M26.5,31 C28.986,31 31,33.014 31,35.5 C31,37.986 28.986,40 26.5,40 C24.014,40 22,37.986 22,35.5 C22,33.014 24.014,31 26.5,31 Z" id="Path"></path>
+                    <path d="M41.5,37 C43.986,37 46,39.014 46,41.5 C46,43.986 43.986,46 41.5,46 C39.014,46 37,43.986 37,41.5 C37,39.014 39.014,37 41.5,37 Z" id="Path"></path>
+                    <path d="M41.5,22 C43.986,22 46,24.014 46,26.5 C46,28.986 43.986,31 41.5,31 C39.014,31 37,28.986 37,26.5 C37,24.014 39.014,22 41.5,22 Z" id="Path"></path>
+                    <path d="M30.35,33.19 L37.65,28.81" id="Path"></path>
+                    <path d="M30.676,37.17 L37.324,39.83" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
